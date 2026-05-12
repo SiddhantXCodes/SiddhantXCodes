@@ -11,8 +11,8 @@
 I'm a software developer focused on building fast, reliable, and scalable applications — especially in **Flutter**.  
 I enjoy turning ideas into smooth mobile experiences and exploring backend, system design, and performance optimization.
 
-- 💼 Software Developer @ **Govt. of India – CGWB**  
 - 📱 Currently building: **SpeedMaths Pro**, hybrid online + offline app  
+- 💼 Software Developer intern @ **Govt. of India – CGWB**  
 - 🎯 Interested in: Mobile apps, distributed systems, and dev tooling  
 - 🧠 Learning daily & improving through projects + problem solving  
 
