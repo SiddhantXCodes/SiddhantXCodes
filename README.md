@@ -1,80 +1,115 @@
-<h1 align="center">Hi, I'm Siddhant Mishra 👋</h1>
-<p align="center">Software Developer · Full-Stack & Mobile · System Design</p>
+<h1 align="center">Hi, I'm Siddhant Mishra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave" /></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddhantmishrapro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddhantmishra.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://siddhantmishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <strong>Software Developer</strong> &nbsp;•&nbsp; Full-Stack & Mobile &nbsp;•&nbsp; System Design
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddhantXCodes&color=0e75b6&style=flat-square" />
+  I build dependable digital products—from polished Flutter apps to scalable web platforms.
 </p>
-
----
-
-## About Me
-
-I'm a software developer who builds fast, reliable, production-grade applications — with a focus on **Flutter mobile apps** and full-stack web products. I like taking ideas from concept to shipped product, and I'm equally comfortable in frontend, backend, and system design.
-
-- 📱 Currently building **SpeedMaths Pro** — a hybrid online/offline math practice app
-- 🌐 Also built **GovtJobsNotice** — a government jobs notification portal (Astro, Cloudflare, Supabase)
-- 💼 Former Software Developer Intern, **Central Ground Water Board, Govt. of India**
-- 🏆 Winner, **Smart India Hackathon 2022** (Software Edition) — National Level
-- 🧠 Actively exploring mobile apps, distributed systems, and dev tooling
-
----
-
-## Tech Stack
-
-**Mobile & Frontend**
-Flutter · Dart · React · Next.js · TypeScript · Tailwind CSS
-
-**State & Data**
-Provider · Riverpod · Firebase · PostgreSQL · MongoDB · Supabase
-
-**Backend**
-Node.js · Express
-
-**Tools**
-Git & GitHub · Linux · Postman · Figma · CI/CD basics
-
----
-
-## Featured Projects
-
-### 📱 SpeedMaths Pro
-Hybrid online + offline math practice app built with Flutter and Firebase.
-Smart Practice · Progress Heatmaps · Streaks · Leaderboards
-
-### 🌐 GovtJobsNotice
-Government jobs notification portal — JAMstack architecture with Astro, Cloudflare Pages, Supabase, and Directus CMS.
-
-### 🎵 Media Player *(in progress)*
-Custom mobile media player inspired by VLC — gesture controls, metadata reader, playlist engine.
-
-### 🧮 CP & GATE ECE Tools
-Simulation tools, calculators, and question generators built for competitive prep and ECE core subjects.
-
----
-
-## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SiddhantXCodes&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SiddhantXCodes&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/siddhantmishrapro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:siddhantmishra.pro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://siddhantmishra.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-> 🕰️ Earlier work (2021–2024) lives on my original account: **[@siddhantmi](https://github.com/siddhantmi)**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SiddhantXCodes&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-## Connect With Me
+## 👨🏻‍💻 About Me
 
-- **LinkedIn:** [siddhantmishrapro](https://www.linkedin.com/in/siddhantmishrapro/)
-- **Email:** siddhantmishra.pro@gmail.com
-- **Portfolio:** [siddhantmishra.vercel.app](https://siddhantmishra.vercel.app/)
+I’m a software developer focused on shipping fast, reliable, production-ready applications. I enjoy working across the product lifecycle: shaping an idea, designing clean experiences, building robust systems, and improving them through real-world feedback.
+
+- 📱 Building **SpeedMaths Pro**, a hybrid online/offline math-practice app
+- 🌐 Built **GovtJobsNotice**, a JAMstack government-job notification portal
+- 💼 Former Software Developer Intern at the **Central Ground Water Board, Government of India**
+- 🏆 **Smart India Hackathon 2022** winner — Software Edition, national level
+- 🧠 Exploring distributed systems, mobile engineering, and developer tooling
 
 ---
 
-<p align="center">✨ Always building. Always improving.</p>
+## 🛠️ Technical Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,tailwind,nodejs,express,firebase,supabase,postgres,mongodb,git,github,linux" alt="Flutter, Dart, React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, Firebase, Supabase, PostgreSQL, MongoDB, Git, GitHub, Linux" />
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| **Mobile & frontend** | Flutter, Dart, React, Next.js, TypeScript, Tailwind CSS |
+| **State & data** | Provider, Riverpod, Firebase, PostgreSQL, MongoDB, Supabase |
+| **Backend** | Node.js, Express |
+| **Tools** | Git & GitHub, Linux, Postman, Figma, CI/CD basics |
+
+---
+
+## ✨ Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 SpeedMaths Pro</h3>
+      <p>A hybrid online/offline math-practice app built with Flutter and Firebase.</p>
+      <p><strong>Focus:</strong> smart practice, progress heatmaps, streaks, and leaderboards.</p>
+      <p><code>Flutter</code> <code>Firebase</code> <code>Mobile</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 GovtJobsNotice</h3>
+      <p>A government-jobs notification portal designed with a modern JAMstack architecture.</p>
+      <p><strong>Stack:</strong> Astro, Cloudflare Pages, Supabase, and Directus CMS.</p>
+      <p><code>Astro</code> <code>Supabase</code> <code>Cloudflare</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Media Player <sub><i>in progress</i></sub></h3>
+      <p>A custom mobile media player inspired by VLC, with gesture controls, metadata reading, and a playlist engine.</p>
+      <p><code>Flutter</code> <code>Mobile</code> <code>Media</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧮 CP & GATE ECE Tools</h3>
+      <p>Simulation tools, calculators, and question generators for competitive programming and ECE-core preparation.</p>
+      <p><code>Developer Tools</code> <code>Education</code> <code>ECE</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=SiddhantXCodes&theme=tokyonight&hide_border=true" alt="Siddhant's GitHub contribution streak" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantXCodes&theme=tokyo-night&hide_border=true" alt="Siddhant's contribution graph"  />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiddhantXCodes&theme=tokyonight" alt="Contribution and pull-request activity"  />
+    </td>
+  </tr>
+</table>
+
+> **Looking for earlier work?** Projects from 2021–2024 live on [@siddhantmi](https://github.com/siddhantmi).
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re building something useful, interesting, or ambitious, I’d be glad to connect.
+
+<p>
+  <a href="https://www.linkedin.com/in/siddhantmishrapro/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:siddhantmishra.pro@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://siddhantmishra.vercel.app/">Portfolio</a>
+</p>
+
+<p align="center"><i>Always building. Always improving.</i> ✨</p>
